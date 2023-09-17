@@ -1,0 +1,28 @@
+_id: req_10e7bbe50c1a4e139fa38bc2fe26a07c
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1693759008346
+created: 1693758882974
+url: http://localhost:3000/api/v3/models/64f4abd2a4ba73248de09c17
+name: New Request
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+    id: pair_5575fdf0cee44ba1bbcfb15ff74113ab
+  - id: pair_c6678aec5f0a48cd9cd6043d9457b636
+    name: apikey
+    value: "1693754613518"
+    description: ""
+authentication: {}
+metaSortKey: -1693758882974
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_f6efc97a116a418391e658285ac6a142
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1692733514112
+created: 1692631689391
+url: http://localhost:3000/api/v1/stats?apikey=1234
+name: stats v1
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+authentication: {}
+metaSortKey: -1692631689391
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

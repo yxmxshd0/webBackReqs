@@ -1,0 +1,24 @@
+_id: req_02a1c385349d457e9e6fe565ef0e1281
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1693755128389
+created: 1693754975062
+url: http://localhost:3000/api/v3/comments
+name: COM to V3 API
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+    id: pair_0f079f925e63475bbaa79fc9cee9d6bb
+authentication: {}
+metaSortKey: -1693754975062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_8eea513f0f0348e38729841ad4049413
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1692733836728
+created: 1692728143057
+url: http://localhost:3000/api/v2/comments?apikey=1234
+name: comments v2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Roma",
+    	"Age": 21,
+    	"comments": "asfa12asfadsgdagasf"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+    id: pair_289394f835d846d28f692b302f595c3f
+authentication: {}
+metaSortKey: -1692728143057
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

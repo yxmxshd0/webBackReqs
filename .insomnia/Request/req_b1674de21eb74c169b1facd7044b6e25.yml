@@ -1,0 +1,35 @@
+_id: req_b1674de21eb74c169b1facd7044b6e25
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1693764775371
+created: 1693760113488
+url: http://localhost:3000/api/v3/models/64f4b146f525c202c7ce6f2c
+name: New Request
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Type":"Triangle"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+    id: pair_f4f76d1948cb42989320f391193bac4e
+  - id: pair_d733845128664ee59d452dd3ab79980b
+    name: apikey
+    value: "1693754613518"
+    description: ""
+authentication: {}
+metaSortKey: -1693760113488
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

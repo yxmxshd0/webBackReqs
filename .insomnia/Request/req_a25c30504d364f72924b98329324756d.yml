@@ -1,0 +1,23 @@
+_id: req_a25c30504d364f72924b98329324756d
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1693758436814
+created: 1693758209813
+url: http://localhost:3000/api/v3/models/64f4abd2a4ba73248de09c17
+name: GETmODELbYID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+authentication: {}
+metaSortKey: -1693758209813
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

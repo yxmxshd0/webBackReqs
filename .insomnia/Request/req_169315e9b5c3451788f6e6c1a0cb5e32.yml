@@ -1,0 +1,37 @@
+_id: req_169315e9b5c3451788f6e6c1a0cb5e32
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1693757079847
+created: 1693755131647
+url: http://localhost:3000/api/v3/models
+name: POST_MODEL
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Name":"Roma",
+    	"Author":"Sergey",
+    	"Type":"Cube"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+    id: pair_4285853d7ac1480285f631bd23541f61
+  - id: pair_2981de09e91f434abbd52a4183be1a58
+    name: apikey
+    value: "1693754613518"
+    description: ""
+authentication: {}
+metaSortKey: -1693755131647
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

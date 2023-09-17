@@ -1,0 +1,32 @@
+_id: req_53d33b339fd647ddb844bb822fffa7a8
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1692733519524
+created: 1692631988540
+url: http://localhost:3000/api/v1/comments?apikey=1234
+name: commetns v1
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Seva",
+    	"Age": 5,
+    	"comments": "YA SOSU CHLEN"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+authentication: {}
+metaSortKey: -1692631988540
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

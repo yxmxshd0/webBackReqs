@@ -1,0 +1,32 @@
+_id: req_1e9fd3e887a0418ea38db630bbe16c23
+type: Request
+parentId: wrk_047d3d0d7cba4f6bb3a73bbf04e69d79
+modified: 1692742052690
+created: 1692734427092
+url: http://localhost:3000/api/v3/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "roma"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_28f24dfb2a4448ecb7e1d16ec8681a2f
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+    id: pair_2ef55af83adb4975b59d3bd321a85961
+authentication: {}
+metaSortKey: -1692734427092
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
